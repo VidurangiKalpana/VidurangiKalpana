@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Software Engineering Project - Image Spectral Data Based Greenhouse Monitoring System
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning AI ML
 - 📫 How to reach me: https://www.linkedin.com/in/vidurangi-kalpana-9079301b7/
 - ⚡ Fun fact: I'm a 🏸❤️, 🎶💜 & 🐈🧡
 

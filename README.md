@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Software Engineering Project - Image Spectral Data Based Greenhouse Monitoring System
-- 🌱 I’m currently learning AI ML
+- 🔭 I’m currently working on Software Engineering Project - Large Language Models in Education
+- 🌱 I’m currently learning ML AI
 - 📫 How to reach me: https://www.linkedin.com/in/vidurangi-kalpana-9079301b7/
-- ⚡ Fun fact: I'm a 🏸❤️, 🎶💜 & 🐈🧡
+- ⚡ Fun fact: I'm a 🏸❤️ & a 🎶💜
 
